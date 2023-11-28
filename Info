@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Información</title>
+    <link href="./Utils/css/style.css" rel="stylesheet" />
+  </head>
+  <body style="background-color: rgba(99, 99, 99, 0.596)">
+    <header style="background-color: rgb(0, 0, 0)">
+      <img
+        src="https://www.fundacionvicentetormo.org/wp-content/uploads/2018/02/Free-Backgrounds-Ford-Logo-Wallpapers-e1551393079225.jpg"
+      />
+      <a class="btn-primary" href="./Índice.html">Inicio</a>
+      <a class="btn-primary" href="./Contacto.html">Contacto</a>
+      <a class="btn-primary" href="./Info.html">Información</a>
+    </header>
+    <main>
+      <hr />
+      <h1>Pasión por las ruedas</h1>
+      <h2>Tu concesionario de confianza</h2>
+      <hr />
+    </main>
+    <section>
+      <article>
+        <dl>
+          <dt>
+            <modelo class="marca">Ford</modelo
+            ><modelo class="modelo"> Fiesta</modelo>
+          </dt>
+          <dd>
+            <img
+              src="https://cdn.autobild.es/sites/navi.axelspringer.es/public/bdc/dc/fotos/Ford_Fiesta_2022_02.jpg?tf=3840x"
+              style="width: 39%"
+            />
+            <br />
+            Precio: Desde 21.361,7 € <br />
+            Consumo de combustible: combinado 5-7,1 l/100 km<br />
+            Motor: 1,0 L 3 motor en línea<br />
+            Dimensiones: 4.048-4.091 mm L x 1.735 mm A x 1.484-1.509 mm A<br />
+            Puertas: 5 Velocidad máxima: 165 a 230 km/h <br />
+            <a href="https://www.ford.es/turismos/fiesta">Comprar</a>
+          </dd>
+          <dt>
+            <modelo class="marca">Ford</modelo
+            ><modelo class="modelo"> Focus</modelo>
+          </dt>
+          <dd>
+            <img
+              src="https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2020/04/mejores-ford-focus-1998-1923287.jpg?tf=3840x"
+              style="width: 39%"
+            />
+            <br />
+            Precio: Desde 30.483,5 € <br />
+            Dimensiones: 4.378-4.693 mm L x 1.825 mm A x 1.454-1.492 mm A<br />
+            Motor: 1,0 L 3 motor en línea<br />
+            Consumo de combustible: combinado 4,3-8 l/100 km<br />
+            <a href="https://www.ford.es/turismos/focus">Comprar</a>
+          </dd>
+          <dt>
+            <modelo class="marca">Ford</modelo
+            ><modelo class="modelo"> Mustang</modelo>
+          </dt>
+          <dd>
+            <img
+              src="https://cdn.motor1.com/images/mgl/9mZpXv/s1/2020-2022-ford-mustang-shelby-gt500kr.jpg"
+              style="width: 39%"
+            />
+            <br />
+            Precio: Desde 57.580,6 €<br />
+            Consumo de combustible: combinado 11-12 l/100 km<br />
+            Velocidad máxima: 249 a 262 km/h<br />
+            Aceleración 0-100 km/h: 4,6 a 4,9 segundos<br />
+            Motor: 5,0 L V8<br />
+            <a href="https://www.ford.es/turismos/mustang">Comprar</a>
+          </dd>
+          <dt>
+            <modelo class="marca">Ford</modelo
+            ><modelo class="modelo"> Ranger Raptor</modelo>
+          </dt>
+          <dd>
+            <img
+              src="https://i0.wp.com/citymagazine.si/wp-content/uploads/2023/05/Hennessey-VelociRaptor-500-01.jpg?fit=1920%2C1080&ssl=1"
+              style="width: 39%"
+            /><br />
+            Precio: Desde 65.000 €<br />
+            Aceleración: 0-100 km/h: 7,6 segundos<br />
+            Motor: Gasolina EcoBoost V6 con doble turbo<br />
+            Max. Potencia: 292CV <br />
+            <a href="https://www.ford.es/furgonetas-pick-up/ranger-raptor"
+              >Comprar</a
+            >
+          </dd>
+        </dl>
+      </article>
+    </section>
+    <footer>
+      <a class="btn-secondary" href="./Índice.html">Inicio</a> |
+      <a class="btn-secondary" href="./Contacto.html">Contacto</a> | Lunes a
+      viernes de 9:00 - 20:00 | Sábado y domingo cerrados
+    </footer>
+  </body>
+</html>
