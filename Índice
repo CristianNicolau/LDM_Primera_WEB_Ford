@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Índice</title>
+    <link href="./Utils/css/style.css" rel="stylesheet" />
+  </head>
+  <body style="background-color: rgba(99, 99, 99, 0.596)">
+    <header style="background-color: rgb(0, 0, 0)">
+      <img
+        src="https://www.fundacionvicentetormo.org/wp-content/uploads/2018/02/Free-Backgrounds-Ford-Logo-Wallpapers-e1551393079225.jpg"
+      />
+      <a class="btn-primary" href="./Índice.html">Inicio</a>
+      <a class="btn-primary" href="./Contacto.html">Contacto</a>
+      <a class="btn-primary" href="./Info.html">Información</a>
+    </header>
+    <hr />
+    <main>
+      <section>
+        <article>
+          <h1>Pasión por las ruedas</h1>
+          <h2>Tu concesionario de confianza</h2>
+          <hr />
+          <table>
+            <tbody>
+              <tr>
+                <td>Elige el coche que más te guste</td>
+                <td>
+                  <img
+                    src="./Utils/imagenes/StreamlineAiVehicleSpark1.png"
+                    style="width: 30%; align-items: center"
+                  />
+                </td>
+              </tr>
+              <br />
+              <tr>
+                <td>Te guiamos durante todo el proceso</td>
+                <td>
+                  <img
+                    src="./Utils/imagenes/CarbonHelpDesk.png"
+                    style="width: 30%; align-items: center"
+                  />
+                </td>
+              </tr>
+              <br />
+              <tr>
+                <td>Te lo llevas a casa sin demora</td>
+                <td>
+                  <img
+                    src="./Utils/imagenes/PhThumbsUpDuotone.png"
+                    style="width: 30%; align-items: center"
+                  />
+                </td>
+              </tr>
+              <br />
+            </tbody>
+          </table>
+        </article>
+        <br />
+        <br />
+        <br />
+        <br />
+        <article class="descripción">
+          ¿Siempre has soñado con tener un coche pero no sabes cual escoger? En
+          nuestra página encontrás varias opciones a elegir. Dirígete a nuestra
+          sección de
+          <a class="btn-secondary" href="./Info.html">información</a> para saber
+          más.
+        </article>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+      </section>
+    </main>
+    <hr style="color: black" />
+    <footer>
+      <a class="btn-secondary" href="./Contacto.html">Contacto</a> | Lunes a
+      viernes de 9:00 - 20:00 | Sábado y domingo cerrados
+    </footer>
+  </body>
+</html>
