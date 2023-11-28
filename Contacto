@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contacto</title>
+    <link href="./Utils/css/style.css" rel="stylesheet" />
+  </head>
+  <body style="background-color: rgba(99, 99, 99, 0.596)">
+    <header style="background-color: rgb(0, 0, 0)">
+      <img
+        src="https://www.fundacionvicentetormo.org/wp-content/uploads/2018/02/Free-Backgrounds-Ford-Logo-Wallpapers-e1551393079225.jpg"
+      />
+      <a class="btn-primary" href="./Índice.html">Inicio</a>
+      <a class="btn-primary" href="./Contacto.html">Contacto</a>
+      <a class="btn-primary" href="./Info.html">Información</a>
+    </header>
+
+    <main>
+      <hr />
+      <h1>Pasión por las ruedas</h1>
+      <h2>Tu concesionario de confianza</h2>
+      <hr>
+      <p>Introduzca sus datos y nos pondremos en contacto con usted.</p>
+      <form>
+        <input type="text" placeholder="Introduzca su nombre" />
+        <input type="text" placeholder="DNI" />
+        <input type="date" placeholder="Fecha nacimiento" />
+        <label>Hombre</label>
+        <input type="radio" name1 />
+
+        <label>Mujer</label>
+        <input type="radio" name2 /><br />
+        <input type="email" placeholder="Correo electrónico" />
+        <br />
+        <select>
+          <option>Seleccione un concesionario</option>
+          <option>Madrid</option>
+          <option>Valencia</option>
+          <option>Ceuta</option>
+          <option>Baleares</option>
+          <option>Barcelona</option></select
+        ><br />
+        <br /><br />
+        <button>Enviar</button>
+      </form>
+    </main>
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+    <footer>
+      <a class="btn-secondary" href="./Índice.html">Inicio</a> | Lunes a viernes
+      de 9:00 - 20:00 | Sábado y domingo cerrados
+    </footer>
+  </body>
+</html>
