@@ -1,0 +1,43 @@
+p {
+ color: rgb(0, 0, 0);
+}
+h1{
+    color: dodgerblue;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{font-size: x-large;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.btn-primary{
+color: aliceblue;
+font-size: larger;
+text-align: center;
+font-size: 25px;
+vertical-align: 120px;
+font-weight: 700;
+}
+td{
+    font-size: x-large;
+    text-align: left;
+    
+}
+.descripción{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+dt{
+    font-size: 25px;
+}
+dd{
+    font-size: 19px;
+}
+.marca{
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-variant: small-caps;
+color: rgb(0, 0, 136);
+}
+.modelo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
