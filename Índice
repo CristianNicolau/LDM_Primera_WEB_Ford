@@ -11,9 +11,11 @@
       <img
         src="https://www.fundacionvicentetormo.org/wp-content/uploads/2018/02/Free-Backgrounds-Ford-Logo-Wallpapers-e1551393079225.jpg"
       />
-      <a class="btn-primary" href="./Índice.html">Inicio</a>
-      <a class="btn-primary" href="./Contacto.html">Contacto</a>
-      <a class="btn-primary" href="./Info.html">Información</a>
+      <nav>
+        <a class="btn-primary" href="./Índice.html">Inicio</a>
+        <a class="btn-primary" href="./Contacto.html">Contacto</a>
+        <a class="btn-primary" href="./Info.html">Información</a>
+      </nav>
     </header>
     <hr />
     <main>
